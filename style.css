@@ -1,0 +1,45 @@
+
+
+
+.iks{
+    background-color: blue;
+    color: white; 
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.5);
+    padding:0;
+    width: 400px;
+    margin-bottom: 50%;
+}
+
+h1{
+    font-size: 24px;
+    font-family: sans-serif;
+background-color: black;
+border-top-left-radius: 14px;
+border-top-right-radius: 14px;}
+
+    .l{
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    
+    .p{
+        font-size: 18px;
+        margin-bottom: 20px;  
+    }
+
+    .btn{
+       
+    
+    
+    }
+
+.btn:hover{
+    background-color: black;
+    color: #fff;
+    width: 100%;
+    border:none;
+    cursor: pointer;
+    }
